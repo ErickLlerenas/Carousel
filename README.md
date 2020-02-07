@@ -1,3 +1,3 @@
 # Carousel
-ScreenShot:
+## ScreenShot
 ![image](assets/img/carousel.png)
