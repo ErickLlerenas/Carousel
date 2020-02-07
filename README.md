@@ -1,3 +1,3 @@
 # Carousel
-ScreenShot:
-![image](assets/img/cat_5.jpg)
+## ScreenShot
+![image](assets/img/carousel.png)
